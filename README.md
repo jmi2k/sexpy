@@ -5,7 +5,9 @@ _sexpy_ contains some tools to allow effortless manipulation of data encoded as 
 
 In particular, _sexpy_ aids in the transformation between these three levels of abstraction:
 
-**<p align='center'>Plain text ⟷ Nested lists ⟷ Python data types</p>**
+**<p align='center'>Plain text ⟷ Nested lists <sup>1</sup>⟷ Python data types</p>**
+
+1. Still WIP.
 
 Example
 -------
